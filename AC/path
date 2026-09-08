@@ -1,0 +1,3 @@
+data/sequence 1.fasta
+numpy/species_names.npy
+best_species_classifier.pth
